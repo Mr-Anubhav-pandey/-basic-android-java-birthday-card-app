@@ -40,7 +40,7 @@
         android:shadowColor="#F10909"
         android:shadowRadius="3"
         android:text="From ANUBHAV"
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="16sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
